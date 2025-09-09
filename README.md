@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/a1d3nmam3d0v/fem-qr-code-component)
-- Live Site URL: [Add live site URL here](https://a1d3nmam3d0v.github.io/fem-qr-code-component/)
+- Solution URL: [https://github.com/a1d3nmam3d0v/fem-qr-code-component](https://github.com/a1d3nmam3d0v/fem-qr-code-component)
+- Live Site URL: [https://a1d3nmam3d0v.github.io/fem-qr-code-component/](https://a1d3nmam3d0v.github.io/fem-qr-code-component/)
 
 ## My process
 
@@ -48,5 +48,5 @@ For future projects, I plan to explore using a CSS or JS framework. For this com
 
 ## Author
 
-- Website (WIP) - [Aiden](mamedov.design)
+- Website (WIP) - [mamedov.design](mamedov.design)
 - Frontend Mentor - [@a1d3nmam3d0v](https://www.frontendmentor.io/profile/a1d3nmam3d0v)
