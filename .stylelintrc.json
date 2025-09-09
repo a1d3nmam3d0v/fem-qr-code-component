@@ -1,0 +1,20 @@
+{
+  "extends": "stylelint-config-standard",
+  "plugins": ["stylelint-order", "stylelint-use-nesting"],
+  "rules": {
+    "order/properties-order": [
+      "position",
+      "z-index",
+      "display",
+      "width",
+      "height",
+      "margin",
+      "padding",
+      "font-family",
+      "color",
+      "background-color",
+      "border"
+    ],
+    "csstools/use-nesting": "always"
+  }
+}

@@ -1,0 +1,14 @@
+# Dependencies
+/node_modules
+
+# Editor & System Files
+/.vscode
+.DS_Store
+
+# Design Files
+*.sketch
+*.fig
+*.xd
+
+# Formatting
+.prettierignore
