@@ -40,7 +40,7 @@ A major improvement to my workflow on this project was implementing Stylelint. A
 
 ### Continued development
 
-For future projects, I plan to explore using a CSS or JS framework. For this component, I intentionally focused on foundational HTML and CSS and making a lightweight solution as a framework would have been unnecessary overhead.
+For future projects, I intend to explore using a CSS or JavaScript framework. However, for this particular component, I deliberately prioritized foundational HTML and CSS, opting for a lightweight solution, as a framework would have introduced unnecessary complexity.
 
 ### Useful resources
 
